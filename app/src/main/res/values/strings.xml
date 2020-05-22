@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PCI</string>
+<string name="tata_consultancy_services">Tata Consultancy Services</string>
+<string name="marks_based_eligibility_criteria">\nMarks based Eligibility Criteria:\n</string>
+<string name="list">
+    1. Marks in Class 10th or equivalent for TCS Eligibility – more than 60% \n\n
+    2. Marks in Class 12th or equivalent for TCS Eligibility – more than 60% \n\n
+    3. Marks or CGPA in Class 10th or equivalent for TCS Eligibility – more than 60% or 6 CGPA on scale of 10
+    </string>
+<string name="compulsory_requirement">\nCompulsory Requirement:\n</string>
+<string name="list2">
+    1. B.E. / B.Tech in any discipline (CSE/ECE/IT/CIVIL/ME/EEE/Automobile/Aeronautical etc.)\n\n
+    2. Engineering candidates who have passed out in the year 2019 are eligible to apply.
+    </string>
+<string name="infosys">Infosys</string>
+<string name="list3">
+        1. A candidate must have more than 60% marks in 10th and 12th (or diploma).\n\n
+        2. A candidate must have a minimum of 65% marks or CGPA 6.5 in graduation.\n\n
+        3. A maximum of 2 years of gap is permissible in the entire education.\n\n
+        4. A candidate should not have any pending backlogs at the time of appearing for Infosys selection process.
+    </string>
+<string name="list4">
+   1. B.E / B.Tech in any discipline (CSE/ECE/IT/CIVIL/ME/EEE/Automobile/ Aeronautical etc.)\n\n
+    2. Engineering candidates who have passed out in the year 2017 and 2018 are eligible to apply.
+
+    </string>
+<string name="arriving_date_20_june_2020">\nArriving Date: 20 June 2020</string>
+<string name="arriving_date_23_june_2020">Arriving Date: 23 June 2020</string>
+    <string name="wipro">Wipro</string>
+    <string name="list5">
+1. A candidate must have more than 60% marks in 10th and 12th (or diploma).\n\n
+2. A candidate must have a minimum of 60% marks in graduation and Post Graduation ( if applicable).\n\n
+3. A candidate should not have any pending backlogs at the time of appearing for Wipro selection process.\n\n
+4. The graduation should be a Full-Time course recognized by Central/State government of India.\n\n
+5. A candidate must have completed all the exit formalities in the previous organization before joining Wipro.
+
+    </string>
+    <string name="hcl">HCL</string>
+    <string name="_25_june_2020">Arriving Date: 25 June 2020</string>
+    <string name="list6">
+1. HCL recruitment process requires the students to have at least 60% in their 10th, 12th and Graduation.\n\n
+2. A maximum gap of 1 year is permissible after HSC(12th) and not after SSC(10th) or in between semesters of graduation to sit for HCL Recruitment.\n\n
+3. A candidate should not have any pending backlogs at the time of appearing for HCL selection process.
+
+    </string>
+    <string name="list7">
+        1. A candidate must have more than 60% marks in 10th and 12th (or diploma).\n\n
+2. A candidate must have a minimum of 60% marks in graduation and Post Graduation ( if applicable).\n\n
+3. A candidate should not have any pending backlogs at the time of appearing for Wipro selection process.\n\n
+4. The graduation should be a Full-Time course recognized by Central/State government of India.\n\n
+5. A candidate must have completed all the exit formalities in the previous organization before joining DELL.
+
+    </string>
+    <string name="dell">DELL</string>
+    <string name="_1_july_2020">Arriving Date: 1 July 2020</string>
+
+    </resources>

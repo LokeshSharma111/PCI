@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/download"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Welcome"
+        android:textAllCaps="true"
+        android:textColor="#231717"
+        android:textSize="50sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.416"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="48dp"
+        android:text="Upcoming Companies:"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head" />
+
+    <Button
+        android:id="@+id/tcs"
+        android:layout_width="163dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="44dp"
+        android:shadowColor="#0C0C0C"
+        android:text="TCS"
+        app:layout_constraintBottom_toBottomOf="@+id/wipro"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.056"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textview2"
+        app:layout_constraintVertical_bias="0.141" />
+
+    <Button
+        android:id="@+id/wipro"
+        android:layout_width="163dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="136dp"
+        android:text="WIPRO"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.064"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textview2" />
+
+    <Button
+        android:id="@+id/infosys"
+        android:layout_width="163dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="36dp"
+        android:text="INFOSYS"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.056"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/wipro" />
+
+    <Button
+        android:id="@+id/dell"
+        android:layout_width="163dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="36dp"
+        android:text="DELL"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.064"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/infosys" />
+
+    <Button
+        android:id="@+id/hcl"
+        android:layout_width="163dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:text="HCL"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.064"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dell" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
